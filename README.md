@@ -1,4 +1,4 @@
-#EXIF Metadata Extractor Toolkit
+# EXIF Metadata Extractor Toolkit
 
 A cross-platform toolkit for retrieving image EXIF metadata on Windows and Linux:
 
