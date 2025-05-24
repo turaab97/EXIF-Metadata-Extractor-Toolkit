@@ -23,7 +23,7 @@ exiftool (for exifscript.sh)
 Installation
 
 # Clone the repo
-git clone https://github.com/turaab97/file-forensics-toolkit.git
+git clone https://github.com/turaab97/EXIF-Metadata-Extractor-Toolkit.git
 cd file-forensics-toolkit
 # On Windows, unblock PowerShell script:
 Unblock-File .\exifscript.ps1
